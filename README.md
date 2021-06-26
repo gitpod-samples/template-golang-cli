@@ -1,16 +1,19 @@
-# Golang CLI Starter
+# A Golang CLI template on Gitpod
 
-[![Gitpod ready-to-code](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+This is a [Golang CLI](https://golang.org) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
-This is a small starter project for working on a GoLang CLI in Gitpod. The code is based on the Cobra framework and its generator.
+## Next Steps
 
-1. Create a fresh project in your account based on this [template](https://github.com/gitpod-io/golang-cli-starter/generate).
+Click the button below to start a new development environment:
 
-1. Install Gitpod's [GitHub App](https://github.com/apps/gitpod-io/installations/new) on your account.<br/>
-The app will install a webook on your project to get informed when branches are pushed or updated. Gitpod will then prebuild your dev environments ahead of time, so noone has to wait for dependency installation and initialization anymore.
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-golang-cli)
 
-1. Run your first prebuild by prefixing https://gitpod.io#prebuild/ to the URL of the repository.<br/>
-The revised URL is: `https://gitpod.io/#prebuild/https://github.com/<orgname>/<projectname>/`.<br/>
-Gitpod displays the prebuild logs by running the init commands in the `.gitpod.yml` file and starts a first workspace based on the results afterwards. Later, when you create a new workspace on a branch, or pull/merge request, for which a prebuild exists, the workspace loads much faster, because all dependencies are already downloaded and the code is compiled. For more information, see prebuilds.
+## Get Started With Your Own Project
 
-1. Share with your team 🚀
+### A new project
+
+Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it.
+
+### An existing project
+
+To get started with Golang CLI on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
