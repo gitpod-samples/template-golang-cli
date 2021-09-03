@@ -8,3 +8,4 @@ tasks:
 vscode:
   extensions:
     - golang.go
+    - tabnine.tabnine-vscode
