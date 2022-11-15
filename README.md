@@ -1,6 +1,6 @@
 # A Golang CLI template on Gitpod
 
-This is a [Golang CLI](https://golang.org) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+This is a [Golang CLI](https://golang.org) template configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
 
 ## Next Steps
 
